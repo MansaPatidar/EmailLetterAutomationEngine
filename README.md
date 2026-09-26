@@ -97,7 +97,7 @@ Or compile and run directly:
 
 ```bash
 ./gradlew build
-java -cp build/libs/assignment3.jar assignment3.Main --email --email-template src/main/resources/email-template.txt --csv-file src/main/resources/insurance-company-members.csv --output-dir out
+java -cp build/libs/EmailLetterAutomationEngine.jar assignment3.Main --email --email-template src/main/resources/email-template.txt --csv-file src/main/resources/insurance-company-members.csv --output-dir out
 ```
 
 ## 📝 Command-Line Parameters

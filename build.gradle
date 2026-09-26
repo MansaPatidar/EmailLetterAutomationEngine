@@ -106,14 +106,15 @@ jacocoTestReport.mustRunAfter test
 
 // Set the main class for the application
 application {
-    mainClass = 'Main'
+    mainClass = 'assignment3.Main'
 }
 
 // Configure the JAR file to include dependencies and set main class
 jar {
+    archiveBaseName = 'EmailLetterAutomationEngine'
     manifest {
         attributes(
-                'Main-Class': 'Main',
+                'Main-Class': 'assignment3.Main',
                 'Class-Path': configurations.runtimeClasspath.files.collect { it.name }.join(' ')
         )
     }
