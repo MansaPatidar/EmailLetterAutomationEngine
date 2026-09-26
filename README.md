@@ -234,7 +234,7 @@ Static analysis using PMD:
 
 ## 📋 Assignment Requirements
 
-This project fulfills the following CS5010 assignment requirements:
+This project fulfills the following requirements:
 
 ✅ Read CSV files with proper quote handling  
 ✅ Process templates with dynamic placeholder replacement  
@@ -258,9 +258,6 @@ This project fulfills the following CS5010 assignment requirements:
 
 This is an academic project created for educational purposes as part of Northeastern University's CS5010 course.
 
-## 👤 Author
-
-Created as an assignment for CS5010: Object-Oriented Design
 
 ---
 
