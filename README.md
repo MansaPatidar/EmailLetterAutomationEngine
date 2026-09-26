@@ -1,6 +1,6 @@
 # EmailLetterAutomationEngine
 
-**An Academic Assignment Project for CS5010: Object-Oriented Design**
+**An Academic Project: Object-Oriented Design**
 
 ![Java](https://img.shields.io/badge/Java-17-orange)
 ![Gradle](https://img.shields.io/badge/Gradle-Build-blue)
@@ -12,7 +12,7 @@
 EmailLetterAutomationEngine is a Java-based application that automates the generation of personalized emails and letters for insurance company members. The system reads customer data from CSV files and uses template files with dynamic placeholders to generate customized communications.
 
 **🎓 Academic Context:**  
-This is an assignment from **Northeastern University's CS5010: Object-Oriented Design** course. It demonstrates key OOP principles including design patterns, separation of concerns, proper exception handling, and comprehensive testing practices.
+This is an assignment demonstrates key OOP principles including design patterns, separation of concerns, proper exception handling, and comprehensive testing practices.
 
 ## ✨ Features
 
