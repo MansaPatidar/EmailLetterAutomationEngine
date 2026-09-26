@@ -1,0 +1,17 @@
+From: insuranceCompany@ic.com
+To: [[email]]
+Subject: Important Update on Upcoming Bonuses and Rewards
+Dear [[first_name]] [[last_name]],
+We are pleased to share an important update regarding upcoming bonuses and rewards available 
+to our valued customers. At [[company_name]], we believe in recognizing loyalty, and we are 
+introducing new benefits that will be rolled out over the next few months.
+
+These upcoming bonuses may include enhanced reward points, exclusive member offers, and 
+seasonal benefits tailored to your needs. You will receive detailed information as each 
+bonus becomes available, along with instructions on how to redeem them.
+
+Thank you for your continued trust in our services. We look forward to providing you with 
+even more value in the near future.
+
+Warm regards,
+Insurance Company CEO

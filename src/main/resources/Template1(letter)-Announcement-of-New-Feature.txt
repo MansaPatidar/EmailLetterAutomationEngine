@@ -1,0 +1,23 @@
+[[company_name]]
+[[first_name]] [[last_name]]
+[[address]], [[city]],
+[[county]], [[state]], [[zip]]
+([[email]])
+
+Dear [[first_name]] [[last_name]],
+
+We are excited to announce a new feature designed to improve your experience with [[company_name]]. 
+Our team has been working hard to introduce a streamlined customer dashboard that allows you to 
+manage your account, update your information, and access support more efficiently.
+
+This new dashboard is now available to all customers, and we encourage you to explore its capabilities. 
+Your feedback has played a major role in shaping this update, and we remain committed to delivering 
+tools that make your interactions with us easier and more transparent.
+
+If you have any questions or would like assistance navigating the new dashboard, our support team 
+is ready to help.
+
+Thank you for being a valued member of our community.
+
+Warm regards,
+Insurance Company CEO

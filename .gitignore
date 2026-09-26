@@ -1,0 +1,43 @@
+# Build artifacts
+build/
+dist/
+target/
+*.jar
+*.war
+*.ear
+*.zip
+
+# IDE files
+.idea/
+*.iml
+*.iws
+*.ipr
+.classpath
+.project
+.settings/
+*.swp
+*.swo
+*~
+.vscode/
+*.code-workspace
+
+# Gradle
+.gradle/
+gradle-app.setting
+!gradle-wrapper.jar
+!gradle/wrapper/gradle-wrapper.jar
+
+# OS files
+.DS_Store
+Thumbs.db
+.env
+.env.local
+
+# Test reports
+coverage/
+.coverage
+jacoco.exec
+
+# Output directories
+out/
+generated/
